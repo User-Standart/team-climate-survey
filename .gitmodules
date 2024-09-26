@@ -1,0 +1,6 @@
+[submodule "sistema-youtan-back"]
+	path = sistema-youtan-back
+	url = https://github.com/User-Standart/sistema-youtan-back.git
+[submodule "sistema-youtan-front"]
+	path = sistema-youtan-front
+	url = https://github.com/User-Standart/sistema-youtan-front.git
