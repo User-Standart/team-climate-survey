@@ -17,22 +17,22 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 
 ### Sprint 1
 | Item | Prioridade | ID | User Stories |
-|------|------------|----|--------------|
+|:----:|:----------:|:---:|:-----------:|
 | Modelagem de banco de dados | 100 | 1 | "Como desenvolvedor, eu quero modelar o banco de dados para que o sistema possa armazenar e gerenciar as informações dos usuários, perfis e permissões, garantindo que a estrutura seja eficiente e escalável." |
 | Criação de página HTML, login e cadastro | 95 | 2 | 'Como desenvolvedor, eu quero criar uma página HTML para o cadastro de usuários, com campos para nome, e-mail e perfil, para que o Admin possa cadastrar novos usuários de maneira eficiente.' |
-| Cadastro de diferentes perfis  | 90 | 3 | 'Como Admin, eu quero ter a capacidade de cadastrar diferentes perfis de usuários (Admin, Líder, Liderado), para garantir que as permissões corretas sejam atribuídas a cada perfil.' |
+| Cadastro de diferentes perfis | 90 | 3 | 'Como Admin, eu quero ter a capacidade de cadastrar diferentes perfis de usuários (Admin, Líder, Liderado), para garantir que as permissões corretas sejam atribuídas a cada perfil.' |
 | Protótipo do projeto - Figma | 85 | 4 | "Como desenvolvedor, que quero apresentar uma visão geral do projeto em desenvolvimento" |
 
 ### Sprint 2
 | Item | Prioridade | ID | User Stories |
-|------|------------|----|--------------|
+|:----:|:----------:|:---:|:-----------:|
 | Interface de edição de usuários cadastrados | 80 | 5 | "Como Admin, eu quero visualizar, editar e remover usuários, para gerenciar quem tem acesso ao sistema e seus respectivos perfis de forma centralizada." |
 | Modelagem visual de BD | 75 | 6 | "Como desenvolvedor, eu quero modelar o banco de dados para armazenar e gerenciar informações de usuários, perfis e permissões de forma eficiente e escalável." |
 | Configuração do smbiente NodeJS | 70 | 7 | "Como desenvolvedor, eu quero configurar o ambiente NodeJS para garantir que o backend esteja preparado para integração com o banco de dados e outras funcionalidades." |
 
 ### Sprint 3
 | Item | Prioridade | ID | User Stories |
-|------|------------|----|--------------|
+|:----:|:----------:|:---:|:-----------:|
 | Cadastro de perguntas de avaliação | 50 | 11 | "Como Admin, eu quero cadastrar perguntas de avaliação com diferentes formatos (texto longo, escolha única, múltipla escolha) para configurar as pesquisas de autoavaliação e avaliação." |
 | Criar e gerenciar perguntas | 45 | 12 | "Como Admin, eu quero criar e gerenciar categorias para as perguntas, para que eu possa organizar e classificar as perguntas nas pesquisas." |
 | Criar e gerenciar pesquisa | 40 | 13 | "Como Admin, eu quero criar e gerenciar pesquisas de autoavaliação e avaliação com até 20 perguntas, para coletar feedbacks de forma estruturada." |
@@ -40,7 +40,7 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 
 ### Sprint 4
 | Item | Prioridade | ID | User Stories |
-|------|------------|----|--------------|
+|:----:|:----------:|:---:|:-----------:|
 | Dashboard de visualização individual | 25 | 16 | "Como usuário, eu quero visualizar um dashboard pessoal baseado nas minhas respostas de autoavaliação para monitorar meu progresso e áreas de desenvolvimento." |
 | Dashboard de liderança | 20 | 17 | "Como Líder, eu quero visualizar um dashboard dos liderados para comparar minhas avaliações com as autoavaliações dos meus liderados." |
 | Dashboard Admin | 15 | 18 | "Como Admin, eu quero acessar um dashboard geral que forneça uma visão completa das avaliações para fazer uma análise comparativa e gerencial." |
@@ -54,8 +54,10 @@ Como parte dos requisitos da entrega da Sprint 1 foi criado um Protótipo do pro
 https://github.com/User-Standart/api-2sem-2024/
 
 
-## Tecnologias Utilizadas 
+##Tecnologias Utilizadas 🛠️
 As seguintes tecnologias foram utilizadas no Projeto:
+![image](https://github.com/user-attachments/assets/7b993bce-61bc-46c1-96dd-9aa7edad3680) ![image](https://github.com/user-attachments/assets/6ce05716-21b5-41f5-879f-fd1b1ebcec60) ![image](https://github.com/user-attachments/assets/e0b94599-6ba1-4908-95ad-dde267c8e178) ![image](https://github.com/user-attachments/assets/ea495fd8-58db-4620-865a-3b8a32f553dc) ![image](https://github.com/user-attachments/assets/22e4d5c8-a9f6-40b5-8b83-b4548bb32047) ![image](https://github.com/user-attachments/assets/065b3c68-c9d4-49c4-bca1-27eee4fecca7) ![image](https://github.com/user-attachments/assets/964e10f2-44de-4d69-b547-e1033c397ebd)
+
 TypeScript, React, MYSQL, HTML, CSS, Figma.
 
 ## Tutorial
