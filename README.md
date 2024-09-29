@@ -50,7 +50,7 @@ https://github.com/User-Standart/api-2sem-2024/
 
 
 ## Tecnologias Utilizadas 🛠️
-![image](https://github.com/user-attachments/assets/7b993bce-61bc-46c1-96dd-9aa7edad3680) ![image](https://github.com/user-attachments/assets/e0b94599-6ba1-4908-95ad-dde267c8e178) ![image](https://github.com/user-attachments/assets/ea495fd8-58db-4620-865a-3b8a32f553dc) ![image](https://github.com/user-attachments/assets/22e4d5c8-a9f6-40b5-8b83-b4548bb32047) ![image](https://github.com/user-attachments/assets/065b3c68-c9d4-49c4-bca1-27eee4fecca7) ![image](https://github.com/user-attachments/assets/964e10f2-44de-4d69-b547-e1033c397ebd)
+![image](https://github.com/user-attachments/assets/7b993bce-61bc-46c1-96dd-9aa7edad3680) ![image](https://github.com/user-attachments/assets/e0b94599-6ba1-4908-95ad-dde267c8e178) ![image](https://github.com/user-attachments/assets/ea495fd8-58db-4620-865a-3b8a32f553dc) ![image](https://github.com/user-attachments/assets/22e4d5c8-a9f6-40b5-8b83-b4548bb32047) 
 
 
 ## Equipe 
