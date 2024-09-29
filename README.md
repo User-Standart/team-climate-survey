@@ -3,7 +3,7 @@ Para a primeira sprint, foi criado o backlog a partir dos requisitos do cliente.
 
 ### Objetivos da Sprint 🎯
 1. Documentação✔️
-2. Criar páginas de HTML✔️
+2. Criar páginas HTML✔️
 3. Modelagem de BD✔️
 4. Telas responsivas✔️
 
