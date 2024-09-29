@@ -39,17 +39,8 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 | Dashboard Admin | 15 | 18 | "Como Admin, eu quero acessar um dashboard geral que forneça uma visão completa das avaliações para fazer uma análise comparativa e gerencial." |
 | Filtro através de Dashboard | 35 | 14 | "Como usuário, eu quero aplicar filtros de data e categoria nos dashboards para visualizar as informações de acordo com o período ou categoria desejada." |
 
-
-## Protótipo 
-Como parte dos requisitos da entrega da Sprint 1 foi criado um Protótipo do projeto para apresentação ao cliente. Segue em vídeo a demonstração do protótipo em funcionamento:
-
-
-https://github.com/User-Standart/api-2sem-2024/
-
-
 ## Tecnologias Utilizadas 🛠️
 ![image](https://github.com/user-attachments/assets/7b993bce-61bc-46c1-96dd-9aa7edad3680) ![image](https://github.com/user-attachments/assets/e0b94599-6ba1-4908-95ad-dde267c8e178) ![image](https://github.com/user-attachments/assets/ea495fd8-58db-4620-865a-3b8a32f553dc) ![image](https://github.com/user-attachments/assets/22e4d5c8-a9f6-40b5-8b83-b4548bb32047) 
-
 
 ## Equipe 
 | Nome | GitHub | LinkedIn |
