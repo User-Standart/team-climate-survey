@@ -26,16 +26,25 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 ### Sprint 2
 | Item | Prioridade | ID | User Stories |
 |------|------------|----|--------------|
-
+| Interface de edição de usuários cadastrados | 80 | 5 | "Como Admin, eu quero visualizar, editar e remover usuários, para gerenciar quem tem acesso ao sistema e seus respectivos perfis de forma centralizada." |
+| Modelagem visual de BD | 75 | 6 | "Como desenvolvedor, eu quero modelar o banco de dados para armazenar e gerenciar informações de usuários, perfis e permissões de forma eficiente e escalável." |
+| Configuração do smbiente NodeJS | 70 | 7 | "Como desenvolvedor, eu quero configurar o ambiente NodeJS para garantir que o backend esteja preparado para integração com o banco de dados e outras funcionalidades." |
 
 ### Sprint 3
 | Item | Prioridade | ID | User Stories |
 |------|------------|----|--------------|
-
+| Cadastro de perguntas de avaliação | 50 | 11 | "Como Admin, eu quero cadastrar perguntas de avaliação com diferentes formatos (texto longo, escolha única, múltipla escolha) para configurar as pesquisas de autoavaliação e avaliação." |
+| Criar e gerenciar perguntas | 45 | 12 | "Como Admin, eu quero criar e gerenciar categorias para as perguntas, para que eu possa organizar e classificar as perguntas nas pesquisas." |
+| Criar e gerenciar pesquisa | 40 | 13 | "Como Admin, eu quero criar e gerenciar pesquisas de autoavaliação e avaliação com até 20 perguntas, para coletar feedbacks de forma estruturada." |
+| Filtro através de Dashboard | 35 | 14 | "Como usuário, eu quero aplicar filtros de data e categoria nos dashboards para visualizar as informações de acordo com o período ou categoria desejada." |
 
 ### Sprint 4
 | Item | Prioridade | ID | User Stories |
 |------|------------|----|--------------|
+| Dashboard de visualização individual | 25 | 16 | "Como usuário, eu quero visualizar um dashboard pessoal baseado nas minhas respostas de autoavaliação para monitorar meu progresso e áreas de desenvolvimento." |
+| Dashboard de liderança | 20 | 17 | "Como Líder, eu quero visualizar um dashboard dos liderados para comparar minhas avaliações com as autoavaliações dos meus liderados." |
+| Dashboard Admin | 15 | 18 | "Como Admin, eu quero acessar um dashboard geral que forneça uma visão completa das avaliações para fazer uma análise comparativa e gerencial." |
+| Plataforma responsiva multidispositivos | 10 | 19 | "Como usuário, eu quero que a interface seja responsiva e funcione bem em diferentes dispositivos e tamanhos de tela para garantir uma boa experiência de uso." |
 
 
 ## Protótipo 
