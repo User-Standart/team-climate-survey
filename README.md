@@ -40,7 +40,7 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 | Filtro através de Dashboard | 35 | 14 | "Como usuário, eu quero aplicar filtros de data e categoria nos dashboards para visualizar as informações de acordo com o período ou categoria desejada." |
 
 ## Tecnologias Utilizadas 🛠️
-![TS](https://github.com/user-attachments/assets/3be06100-5d27-4d86-991b-ba1f36be2855) ![TS](https://github.com/user-attachments/assets/6d516a20-7f1c-429d-a593-fe1115bd1f2c) ![Html](https://github.com/user-attachments/assets/620a2e3d-f9b4-4bbc-8076-681b3457244d) ![Html](https://github.com/user-attachments/assets/94c07c8f-1f13-4880-9117-ff02addec9cb) ![Html](https://github.com/user-attachments/assets/426e05a7-02f6-4b33-9e3c-6ee51c89cb0a) ![MySql](https://github.com/user-attachments/assets/5729a0ba-8f23-48b3-ab4a-5baf0947e32e)
+![TS](https://github.com/user-attachments/assets/3be06100-5d27-4d86-991b-ba1f36be2855) ![React](https://github.com/user-attachments/assets/7949954a-cb19-4ba4-9837-35247a5a63b9) ![Html](https://github.com/user-attachments/assets/620a2e3d-f9b4-4bbc-8076-681b3457244d) ![CSS](https://github.com/user-attachments/assets/27be157c-23a7-43bc-942a-ea9aef9f1482) ![Node](https://github.com/user-attachments/assets/1aabedf5-be97-4f0d-9dc0-bb2833a2f76c) ![MySql](https://github.com/user-attachments/assets/5729a0ba-8f23-48b3-ab4a-5baf0947e32e)
 
 ## Equipe 
 | Nome | GitHub | LinkedIn |
