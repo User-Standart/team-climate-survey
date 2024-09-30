@@ -12,6 +12,10 @@ Para a primeira sprint, foi criado o backlog a partir dos requisitos do cliente.
 Segue vídeo das telas criadas para inserção de login, e realização de cadastro:
 
 
+https://github.com/user-attachments/assets/a3161141-66b0-4d22-a83d-db4e3d27c099
+
+
+
 ### Métricas Do time 📊
 
 O andamento das tarefas pode ser visto observando o gráfico Burndown inserido abaixo.
