@@ -1,18 +1,15 @@
-# Sprint 1 - 09/09 até 29/09
-Para a primeira sprint, foi criado o backlog a partir dos requisitos do cliente. As atividades desenvolvidas pelo grupo envolveram a criação de páginas HTML de login e cadastro de usuários, modelagem de banco de dados para inserção nas páginas, tornar a interface responsiva.
+# Sprint 1 - 30/09 até 20/10
+Na segunda sprint foi realizado uma interface de edição de usuário cadastrado, onde é possível inserir e filtrar usuarios, e formulário para cadastro de perguntas de avaliação com diferentes formatos (texto longo, escolha única, múltipla escolha) a serem inseridas e editadas pelo administrador.
 
 ### Objetivos da Sprint 🎯
-1. Documentação✔️
-2. Criar páginas HTML✔️
-3. Modelagem de BD✔️
-4. Telas responsivas✔️
+1. Criação das interfaces visuais✔️
+2. Criação de formulários, inserir e editar✔️
+3. Telas responsivas✔️
 
 ### Entregas
 
 Segue vídeo das telas criadas para inserção de login, e realização de cadastro:
 
-
-https://github.com/user-attachments/assets/a3161141-66b0-4d22-a83d-db4e3d27c099
 
 
 
@@ -20,6 +17,6 @@ https://github.com/user-attachments/assets/a3161141-66b0-4d22-a83d-db4e3d27c099
 
 O andamento das tarefas pode ser visto observando o gráfico Burndown inserido abaixo.
 
-![image](https://github.com/user-attachments/assets/f6f3c93d-ae49-4a48-b45a-882d5a9474f3)
+![burndown sprint2-3](https://github.com/user-attachments/assets/91a951a4-2f6f-42d7-8b7f-a6691978d910)
 
 
