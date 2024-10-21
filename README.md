@@ -1,5 +1,5 @@
 # Sprint 2 - 30/09 até 20/10
-Na segunda sprint foi criada uma interface de edição de usuário cadastrado, onde é possível inserir, atualizar, deletear e filtrar usuarios, e formulário para cadastro de perguntas de avaliação com diferentes formatos (texto longo, escolha única, múltipla escolha) a serem inseridas e editadas pelo administrador.
+Na segunda sprint foi criada uma interface de edição de usuário cadastrado, onde é possível inserir, atualizar, deletar e filtrar usuarios, e formulário para cadastro de perguntas de avaliação com diferentes formatos (texto longo, escolha única, múltipla escolha) a serem inseridas e editadas pelo administrador.
 
 ### Objetivos da Sprint 🎯
 1. Criação das interfaces visuais✔️
