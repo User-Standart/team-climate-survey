@@ -30,11 +30,12 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 |:----:|:----------:|:---:|:-----------:|
 | Criar e gerenciar perguntas | 45 | 12 | "Como Admin, eu quero criar e gerenciar categorias para as perguntas, para que eu possa organizar e classificar as perguntas nas pesquisas." |
 | Criar e gerenciar pesquisa | 40 | 13 | "Como Admin, eu quero criar e gerenciar pesquisas de autoavaliação e avaliação com até 20 perguntas, para coletar feedbacks de forma estruturada." |
-| Dashboard de autoavaliação | 25 | 16 | "Como usuário, eu quero visualizar um dashboard pessoal baseado nas minhas respostas de autoavaliação para monitorar meu progresso e áreas de desenvolvimento." |
+
 
 ### Sprint 4
 | Item | Prioridade | ID | User Stories |
 |:----:|:----------:|:---:|:-----------:|
+| Dashboard de autoavaliação | 25 | 16 | "Como usuário, eu quero visualizar um dashboard pessoal baseado nas minhas respostas de autoavaliação para monitorar meu progresso e áreas de desenvolvimento." |
 | Dashboard de liderado | 20 | 17 | "Como Líder, eu quero visualizar um dashboard dos liderados para comparar minhas avaliações com as autoavaliações dos meus liderados." |
 | Dashboard Admin | 15 | 18 | "Como Admin, eu quero acessar um dashboard geral que forneça uma visão completa das avaliações para fazer uma análise comparativa e gerencial." |
 | Filtro através de Dashboard | 35 | 14 | "Como usuário, eu quero aplicar filtros de data e categoria nos dashboards para visualizar as informações de acordo com o período ou categoria desejada." |
