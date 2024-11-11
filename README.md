@@ -17,6 +17,7 @@ Segue vídeo demonstrativo das funcionalidades das páginas do Administrador, pa
 O andamento das tarefas pode ser visto observando o gráfico Burndown inserido abaixo.
 
 
-![burndown sprint3 1](https://github.com/user-attachments/assets/63738ab5-f181-4e40-8b6e-661f083951b7)
+![burndown sprint3 1](https://github.com/user-attachments/assets/1e8dbbc2-e1ed-4972-a835-441fdd7ae226)
+
 
 
