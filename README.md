@@ -11,6 +11,8 @@ Para a terceira sprint foi desenvolvido o gerenciamento de armazenamento e assoc
 Segue vídeo demonstrativo das funcionalidades das páginas do Administrador, para ediação de usuários e inserção de formulários:
 
 
+https://github.com/user-attachments/assets/1e151a76-04c4-4286-adcb-c28f60b87259
+
 
 ### Métricas Do time 📊
 
