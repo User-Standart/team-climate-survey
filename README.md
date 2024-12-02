@@ -11,6 +11,7 @@ Na quarta sprint foi desenvolvido o comparamento de respostas de formulários, f
 Segue vídeo demonstrativo das funcionalidades das páginas do Administrador, para ediação de usuários e inserção de formulários:
 
 
+https://github.com/user-attachments/assets/b66fc07c-dd18-4aff-aa25-8e84f4cf1bc1
 
 
 ### Métricas Do time 📊
