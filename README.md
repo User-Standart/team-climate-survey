@@ -39,6 +39,8 @@ Apresentado o desafio pela empresa parceira, foi iniciado o desenvolvimento de u
 | Dashboard de liderado | 20 | 17 | "Como Líder, eu quero visualizar um dashboard dos liderados para comparar minhas avaliações com as autoavaliações dos meus liderados." |
 | Dashboard Admin | 15 | 18 | "Como Admin, eu quero acessar um dashboard geral que forneça uma visão completa das avaliações para fazer uma análise comparativa e gerencial." |
 | Filtro através de Dashboard | 35 | 14 | "Como usuário, eu quero aplicar filtros de data e categoria nos dashboards para visualizar as informações de acordo com o período ou categoria desejada." |
+| Download PDF | 10 | 19 | "Como Usuário, eu quero poder guardar minhas avaliações através de um documento digital para futuras consultas." |
+
 
 ## Tecnologias Utilizadas 🛠️
 ![TS](https://github.com/user-attachments/assets/3be06100-5d27-4d86-991b-ba1f36be2855) ![React](https://github.com/user-attachments/assets/7949954a-cb19-4ba4-9837-35247a5a63b9) ![Html](https://github.com/user-attachments/assets/620a2e3d-f9b4-4bbc-8076-681b3457244d) ![CSS](https://github.com/user-attachments/assets/27be157c-23a7-43bc-942a-ea9aef9f1482) ![Node](https://github.com/user-attachments/assets/1aabedf5-be97-4f0d-9dc0-bb2833a2f76c) ![MySql](https://github.com/user-attachments/assets/5729a0ba-8f23-48b3-ab4a-5baf0947e32e)
