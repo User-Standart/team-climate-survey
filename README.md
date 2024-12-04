@@ -4,7 +4,7 @@ Na quarta sprint foi desenvolvido o comparamento de respostas de formulários, f
 ### Objetivos da Sprint 🎯
 1. Implementação das dashboards✔️
 2. Filtros✔️
-3. Baixar PDF✔️
+3. Download PDF✔️
 
 ### Entregas
 
